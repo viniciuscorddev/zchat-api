@@ -1,7 +1,7 @@
 package service;
 
-import controller.CreateUserDto;
-import controller.UpdateUserDto;
+import dto.CreateUserDto;
+import dto.UpdateUserDto;
 import entity.User;
 import org.springframework.stereotype.Service;
 import repository.UserRepository;
