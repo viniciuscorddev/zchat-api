@@ -1,5 +1,4 @@
-package entity;
-
+package com.zchat.entity;
 import jakarta.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
